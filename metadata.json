@@ -1,0 +1,6 @@
+{
+  "name": "AI-Book - Digital Notes Sharing System",
+  "description": "An AI-powered digital notes sharing platform for college students with semester-wise and subject-wise notes management, interactive PDF viewer, AI study assistant, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
